@@ -1,0 +1,2324 @@
+ [
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/22.png",
+      "name": "Floral 22",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/21.png",
+      "name": "Floral 21",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/20.png",
+      "name": "Floral 20",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/19.png",
+      "name": "Floral 19",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Emoji/024.jpg",
+      "name": "Emoji 24",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/23.png",
+      "name": "Emoji 23",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/22.png",
+      "name": "Emoji 22",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Emoji/021.jpg",
+      "name": "Emoji 21",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/34.jpeg",
+      "name": "Nature 34",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/33.jpeg",
+      "name": "Nature 33",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/32.jpeg",
+      "name": "Nature 32",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/31.jpeg",
+      "name": "Nature 31",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/20.png",
+      "name": "Minimal 20",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/19.png",
+      "name": "Minimal 19",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/18.png",
+      "name": "Minimal 18",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/17.png",
+      "name": "Minimal 17",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/18.png",
+      "name": "Girls 18",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/17.png",
+      "name": "Girls 17",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/16.png",
+      "name": "Girls 16",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/15.png",
+      "name": "Girls 15",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/15.png",
+      "name": "Birds 15",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/14.png",
+      "name": "Birds 14",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/13.png",
+      "name": "Birds 13",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/12.png",
+      "name": "Birds 12",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/11.png",
+      "name": "Birds 11",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/14.png",
+      "name": "Galaxy 14",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/13.png",
+      "name": "Galaxy 13",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/12.png",
+      "name": "Galaxy 12",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/12.png",
+      "name": "Gold 12",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/11.png",
+      "name": "Gold 11",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/10.png",
+      "name": "Gold 10",
+      "collections": "Gold"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Love/7.png",
+      "name": "Love 7",
+      "collections": "Love"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Love/6.png",
+      "name": "Love 6",
+      "collections": "Love"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Love/5.png",
+      "name": "Love 5",
+      "collections": "Love"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Love/4.png",
+      "name": "Love 4",
+      "collections": "Love"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Love/3.png",
+      "name": "Love 3",
+      "collections": "Love"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Love/2.png",
+      "name": "Love 2",
+      "collections": "Love"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Love/1.png",
+      "name": "Love 1",
+      "collections": "Love"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/9.png",
+      "name": "Butterfly 9",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/8.png",
+      "name": "Butterfly 8",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/47.png",
+      "name": "Animals 47",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/46.png",
+      "name": "Animals 46",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/45.png",
+      "name": "Animals 45",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/44.png",
+      "name": "Animals 44",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/43.png",
+      "name": "Animals 43",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/42.png",
+      "name": "Animals 42",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/41.png",
+      "name": "Animals 41",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/16.png",
+      "name": "Name Letter 16",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/15.png",
+      "name": "Name Letter 15",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/19.jpeg",
+      "name": "Sea Animal 19",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/18.jpeg",
+      "name": "Sea Animal 18",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/17.jpeg",
+      "name": "Sea Animal 17",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/16.jpeg",
+      "name": "Sea Animal 16",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/15.jpeg",
+      "name": "Sea Animal 15",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/14.jpeg",
+      "name": "Sea Animal 14",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/13.jpeg",
+      "name": "Sea Animal 13",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/12.jpeg",
+      "name": "Sea Animal 12",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/11.jpeg",
+      "name": "Sea Animal 11",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/10.jpeg",
+      "name": "Sea Animal 10",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/9.jpeg",
+      "name": "Sea Animal 9",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/8.jpeg",
+      "name": "Sea Animal 8",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/7.jpeg",
+      "name": "Sea Animal 7",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/6.jpeg",
+      "name": "Sea Animal 6",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Super%20heroes/017.jpg",
+      "name": "Super Heroes 17",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/16.png",
+      "name": "Super Heroes 16",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/15.png",
+      "name": "Super Heroes 15",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/14.png",
+      "name": "Super Heroes 14",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/13.png",
+      "name": "Super Heroes 13",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/12.png",
+      "name": "Super Heroes 12",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/32.jpeg",
+      "name": "Illustration 32",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/31.jpeg",
+      "name": "Illustration 31",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/30.jpeg",
+      "name": "Illustration 30",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/God/6.png",
+      "name": "God 6",
+      "collections": "God"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/God/5.png",
+      "name": "God 5",
+      "collections": "God"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Car/4.png",
+      "name": "Car 4",
+      "collections": "Car"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Car/3.png",
+      "name": "Car 3",
+      "collections": "Car"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Car/2.png",
+      "name": "Car 2",
+      "collections": "Car"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Car/1.png",
+      "name": "Car 1",
+      "collections": "Car"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/11.png",
+      "name": "Anime 11",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/10.png",
+      "name": "Anime 10",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/9.png",
+      "name": "Anime 9",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/8.png",
+      "name": "Anime 8",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/7.png",
+      "name": "Anime 7",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/6.png",
+      "name": "Anime 6",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/13.jpeg",
+      "name": "AMOLED 13",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/12.jpeg",
+      "name": "AMOLED 12",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/11.jpeg",
+      "name": "AMOLED 11",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Cream/5.png",
+      "name": "Cream 5",
+      "collections": "Cream"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Cream/4.png",
+      "name": "Cream 4",
+      "collections": "Cream"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Cream/3.png",
+      "name": "Cream 3",
+      "collections": "Cream"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Cream/2.png",
+      "name": "Cream 2",
+      "collections": "Cream"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Cream/1.png",
+      "name": "Cream 1",
+      "collections": "Cream"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/future%20world/5.png",
+      "name": "future world 5",
+      "collections": "future world"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/future%20world/4.png",
+      "name": "future world 4",
+      "collections": "future world"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/future%20world/3.png",
+      "name": "future world 3",
+      "collections": "future world"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/future%20world/2.png",
+      "name": "future world 2",
+      "collections": "future world"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/future%20world/1.png",
+      "name": "future world 1",
+      "collections": "future world"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/11.png",
+      "name": "Galaxy 11",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/10.png",
+      "name": "Galaxy 10",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/9.png",
+      "name": "Galaxy 9",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/8.png",
+      "name": "Galaxy 8",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/30.jpeg",
+      "name": "Nature 30",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/29.jpeg",
+      "name": "Nature 29",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/28.jpeg",
+      "name": "Nature 28",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/27.jpeg",
+      "name": "Nature 27",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/26.jpeg",
+      "name": "Nature 26",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/25.jpeg",
+      "name": "Nature 25",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/24.jpeg",
+      "name": "Nature 24",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/23.jpeg",
+      "name": "Nature 23",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/14.png",
+      "name": "Girls 14",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/13.png",
+      "name": "Girls 13",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/12.png",
+      "name": "Girls 12",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/11.png",
+      "name": "Girls 11",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/11.png",
+      "name": "Neon 11",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/10.png",
+      "name": "Neon 10",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/9.png",
+      "name": "Neon 9",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/8.png",
+      "name": "Neon 8",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/18.png",
+      "name": "Floral 18",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/17.png",
+      "name": "Floral 17",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/16.png",
+      "name": "Floral 16",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/15.png",
+      "name": "Floral 15",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/14.png",
+      "name": "Floral 14",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/13.png",
+      "name": "Floral 13",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/12.png",
+      "name": "Floral 12",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/11.png",
+      "name": "Floral 11",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/10.png",
+      "name": "Floral 10",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/9.png",
+      "name": "Floral 9",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/7.png",
+      "name": "Butterfly 7",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/6.png",
+      "name": "Butterfly 6",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/5.png",
+      "name": "Butterfly 5",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/10.png",
+      "name": "Birds 10",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/9.png",
+      "name": "Birds 9",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/8.png",
+      "name": "Birds 8",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/7.png",
+      "name": "Birds 7",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/6.png",
+      "name": "Birds 6",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/5.png",
+      "name": "Birds 5",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/4.png",
+      "name": "Birds 4",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/3.png",
+      "name": "Birds 3",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/2.png",
+      "name": "Birds 2",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Birds/1.png",
+      "name": "Birds 1",
+      "collections": "Birds"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/10.jpg",
+      "name": "AMOLED 10",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/9.jpeg",
+      "name": "AMOLED 9",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/8.jpeg",
+      "name": "AMOLED 8",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/7.jpeg",
+      "name": "AMOLED 7",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/10.png",
+      "name": "Girls 10",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/9.png",
+      "name": "Girls 9",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/8.png",
+      "name": "Girls 8",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/7.png",
+      "name": "Girls 7",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/6.png",
+      "name": "Girls 6",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/5.png",
+      "name": "Girls 5",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/4.png",
+      "name": "Girls 4",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/3.png",
+      "name": "Girls 3",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/2.png",
+      "name": "Girls 2",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Girls/1.png",
+      "name": "Girls 1",
+      "collections": "Girls"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/40.png",
+      "name": "Animals 40",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/39.png",
+      "name": "Animals 39",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/38.png",
+      "name": "Animals 38",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/37.png",
+      "name": "Animals 37",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/36.png",
+      "name": "Animals 36",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/35.png",
+      "name": "Animals 35",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/34.jpg",
+      "name": "Animals 34",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/33.png",
+      "name": "Animals 33",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/32.jpg",
+      "name": "Animals 32",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/31.png",
+      "name": "Animals 31",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/16.png",
+      "name": "Minimal 16",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/15.png",
+      "name": "Minimal 15",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/014.jpg",
+      "name": "Minimal 14",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/13.png",
+      "name": "Minimal 13",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/012.jpg",
+      "name": "Minimal 12",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/11.png",
+      "name": "Minimal 11",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/010.jpg",
+      "name": "Minimal 10",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/9.png",
+      "name": "Minimal 9",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/8.png",
+      "name": "Minimal 8",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/29.jpeg",
+      "name": "Illustration 29",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/28.jpeg",
+      "name": "Illustration 28",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/27.jpeg",
+      "name": "Illustration 27",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/26.jpeg",
+      "name": "Illustration 26",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/25.jpeg",
+      "name": "Illustration 25",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/24.jpeg",
+      "name": "Illustration 24",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/23.jpeg",
+      "name": "Illustration 23",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/22.jpeg",
+      "name": "Illustration 22",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/21.jpeg",
+      "name": "Illustration 21",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/9.png",
+      "name": "Gold 9",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/8.png",
+      "name": "Gold 8",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/7.png",
+      "name": "Gold 7",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/6.png",
+      "name": "Gold 6",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/15.jpeg",
+      "name": "Sea Animal 15",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/14.jpeg",
+      "name": "Sea Animal 14",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/13.jpeg",
+      "name": "Sea Animal 13",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/12.jpeg",
+      "name": "Sea Animal 12",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/11.jpeg",
+      "name": "Sea Animal 11",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/10.jpeg",
+      "name": "Sea Animal 10",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/9.jpeg",
+      "name": "Sea Animal 9",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/8.jpeg",
+      "name": "Sea Animal 8",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/7.jpeg",
+      "name": "Sea Animal 7",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/6.jpeg",
+      "name": "Sea Animal 6",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/22.jpeg",
+      "name": "Nature 22",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/21.jpeg",
+      "name": "Nature 21",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/20.jpeg",
+      "name": "Nature 20",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/19.jpeg",
+      "name": "Nature 19",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/18.jpeg",
+      "name": "Nature 18",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/17.jpeg",
+      "name": "Nature 17",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/16.jpeg",
+      "name": "Nature 16",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/15.jpeg",
+      "name": "Nature 15",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/14.jpeg",
+      "name": "Nature 14",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/13.jpeg",
+      "name": "Nature 13",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/20.png",
+      "name": "Emoji 20",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/19.png",
+      "name": "Emoji 19",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/18.png",
+      "name": "Emoji 18",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/17.png",
+      "name": "Emoji 17",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/16.png",
+      "name": "Emoji 16",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/15.png",
+      "name": "Emoji 15",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/14.png",
+      "name": "Emoji 14",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/13.png",
+      "name": "Emoji 13",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/12.png",
+      "name": "Emoji 12",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/11.png",
+      "name": "Emoji 11",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/30.png",
+      "name": "Animals 30",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/29.png",
+      "name": "Animals 29",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/28.png",
+      "name": "Animals 28",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/27.png",
+      "name": "Animals 27",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/26.png",
+      "name": "Animals 26",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/25.png",
+      "name": "Animals 25",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/24.png",
+      "name": "Animals 24",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/23.png",
+      "name": "Animals 23",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/22.png",
+      "name": "Animals 22",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/21.jpg",
+      "name": "Animals 21",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/20.jpeg",
+      "name": "Illustration 20",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Illustration/019.jpg",
+      "name": "Illustration 19",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/18.jpeg",
+      "name": "Illustration 18",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/17.jpeg",
+      "name": "Illustration 17",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/16.jpeg",
+      "name": "Illustration 16",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/15.jpeg",
+      "name": "Illustration 15",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/14.jpeg",
+      "name": "Illustration 14",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/13.jpeg",
+      "name": "Illustration 13",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/12.jpeg",
+      "name": "Illustration 12",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/11.jpeg",
+      "name": "Illustration 11",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/16.png",
+      "name": "Fruits 16",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/15.png",
+      "name": "Fruits 15",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/14.png",
+      "name": "Fruits 14",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/13.png",
+      "name": "Fruits 13",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/12.png",
+      "name": "Fruits 12",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/11.png",
+      "name": "Fruits 11",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/10.png",
+      "name": "Fruits 10",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/9.png",
+      "name": "Fruits 9",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Emoji/010.jpg",
+      "name": "Emoji 10",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/9.png",
+      "name": "Emoji 9",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/8.png",
+      "name": "Emoji 8",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/7.png",
+      "name": "Emoji 7",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/6.png",
+      "name": "Emoji 6",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/5.png",
+      "name": "Emoji 5",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/4.png",
+      "name": "Emoji 4",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Emoji/03.jpg",
+      "name": "Emoji 3",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/2.png",
+      "name": "Emoji 2",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Emoji/1.png",
+      "name": "Emoji 1",
+      "collections": "Emoji"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/11.png",
+      "name": "Super Heroes 11",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/10.png",
+      "name": "Super Heroes 10",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/9.png",
+      "name": "Super Heroes 9",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/8.png",
+      "name": "Super Heroes 8",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/7.png",
+      "name": "Super Heroes 7",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/6.png",
+      "name": "Super Heroes 6",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/14.png",
+      "name": "Name Letter 14",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/13.png",
+      "name": "Name Letter 13",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/12.png",
+      "name": "Name Letter 12",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/11.png",
+      "name": "Name Letter 11",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/10.png",
+      "name": "Name Letter 10",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/9.png",
+      "name": "Name Letter 9",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/5.png",
+      "name": "Gold 5",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/4.png",
+      "name": "Gold 4",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/3.png",
+      "name": "Gold 3",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/2.png",
+      "name": "Gold 2",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Gold%20%26%20paper%20art%20Flora/1.png",
+      "name": "Gold 1",
+      "collections": "Gold "
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/5.png",
+      "name": "Anime 5",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/4.png",
+      "name": "Anime 4",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/3.png",
+      "name": "Anime 3",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/2.png",
+      "name": "Anime 2",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Anime/1.png",
+      "name": "Anime 1",
+      "collections": "Anime"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/God/4.png",
+      "name": "God 4",
+      "collections": "God"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/God/3.png",
+      "name": "God 3",
+      "collections": "God"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/God/2.png",
+      "name": "God 2",
+      "collections": "God"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/God/1.png",
+      "name": "God 1",
+      "collections": "God"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/7.png",
+      "name": "Neon 7",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/6.png",
+      "name": "Neon 6",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/5.png",
+      "name": "Neon 5",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/4.png",
+      "name": "Neon 4",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/3.png",
+      "name": "Neon 3",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/2.png",
+      "name": "Neon 2",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Neon/1.png",
+      "name": "Neon 1",
+      "collections": "Neon"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/12.jpeg",
+      "name": "Nature 12",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/11.jpeg",
+      "name": "Nature 11",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/10.jpeg",
+      "name": "Nature 10",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/9.jpeg",
+      "name": "Nature 9",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/8.jpeg",
+      "name": "Nature 8",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/7.jpeg",
+      "name": "Nature 7",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/6.jpeg",
+      "name": "Nature 6",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/5.jpeg",
+      "name": "Nature 5",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/4.jpeg",
+      "name": "Nature 4",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/3.jpeg",
+      "name": "Nature 3",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/2.jpeg",
+      "name": "Nature 2",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Nature/1.jpeg",
+      "name": "Nature 1",
+      "collections": "Nature"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/20.png",
+      "name": "Animals 20",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/19.png",
+      "name": "Animals 19",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/18.png",
+      "name": "Animals 18",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/17.png",
+      "name": "Animals 17",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/16.png",
+      "name": "Animals 16",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Animals/015.png",
+      "name": "Animals 15",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/14.jpg",
+      "name": "Animals 14",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/13.png",
+      "name": "Animals 13",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/EagleSpys.json/main/Anime%20Style/ANIME-4.png",
+      "name": "Animals 12",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/11.png",
+      "name": "Animals 11",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/10.png",
+      "name": "Animals 10",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/9.png",
+      "name": "Animals 9",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/8.png",
+      "name": "Fruits 8",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/7.png",
+      "name": "Fruits 7",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/6.png",
+      "name": "Fruits 6",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/5.png",
+      "name": "Fruits 5",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/4.png",
+      "name": "Fruits 4",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/3.png",
+      "name": "Fruits 3",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/2.png",
+      "name": "Fruits 2",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Fruits/1.png",
+      "name": "Fruits 1",
+      "collections": "Fruits"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/8.png",
+      "name": "Floral 8",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/7.png",
+      "name": "Floral 7",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/6.png",
+      "name": "Floral 6",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/5.png",
+      "name": "Floral 5",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Floral/04.jpg",
+      "name": "Floral 4",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/3.png",
+      "name": "Floral 3",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/2.png",
+      "name": "Floral 2",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Floral/1.png",
+      "name": "Floral 1",
+      "collections": "Floral"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/6.jpg",
+      "name": "AMOLED 6",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/5.jpeg",
+      "name": "AMOLED 5",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/4.jpeg",
+      "name": "AMOLED 4",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/3.jpeg",
+      "name": "AMOLED 3",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/2.jpeg",
+      "name": "AMOLED 2",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/AMOLED/1.jpeg",
+      "name": "AMOLED 1",
+      "collections": "AMOLED"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/5.png",
+      "name": "Super Heroes 5",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/4.png",
+      "name": "Super Heroes 4",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/3.png",
+      "name": "Super Heroes 3",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Super%20heroes/2.png",
+      "name": "Super Heroes 2",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Super%20heroes/01.jpg",
+      "name": "Super Heroes 1",
+      "collections": "Super Heroes"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/7.png",
+      "name": "Galaxy 7",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/6.png",
+      "name": "Galaxy 6",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/5.png",
+      "name": "Galaxy 5",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/4.png",
+      "name": "Galaxy 4",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/3.png",
+      "name": "Galaxy 3",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/2.png",
+      "name": "Galaxy 2",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Galaxy/1.png",
+      "name": "Galaxy 1",
+      "collections": "Galaxy"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/8.png",
+      "name": "Name Letter 8",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/7.png",
+      "name": "Name Letter 7",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/6.png",
+      "name": "Name Letter 6",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/5.png",
+      "name": "Name Letter 5",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/4.png",
+      "name": "Name Letter 4",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/3.png",
+      "name": "Name Letter 3",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/2.png",
+      "name": "Name Letter 2",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Name%20Letter/1.png",
+      "name": "Name Letter 1",
+      "collections": "Name Letter"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/10.jpeg",
+      "name": "Illustration 10",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/9.jpeg",
+      "name": "Illustration 9",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/8.jpeg",
+      "name": "Illustration 8",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/7.jpeg",
+      "name": "Illustration 7",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/6.jpeg",
+      "name": "Illustration 6",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/5.jpeg",
+      "name": "Illustration 5",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/4.jpeg",
+      "name": "Illustration 4",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/3.jpeg",
+      "name": "Illustration 3",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/2.jpeg",
+      "name": "Illustration 2",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Illustration/1.jpeg",
+      "name": "Illustration 1",
+      "collections": "Illustration"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/07.jpg",
+      "name": "Minimal 7",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/6.png",
+      "name": "Minimal 6",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/05.jpg",
+      "name": "Minimal 5",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/04.jpg",
+      "name": "Minimal 4",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Minimal/3.png",
+      "name": "Minimal 3",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/EagleSpys.json/main/Minimalist%20Design/MINIMAL-19.png",
+      "name": "Minimal 2",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Minimal/01.jpg",
+      "name": "Minimal 1",
+      "collections": "Minimal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/5.jpeg",
+      "name": "Sea Animal 5",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/4.jpeg",
+      "name": "Sea Animal 4",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/3.jpeg",
+      "name": "Sea Animal 3",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/2.jpeg",
+      "name": "Sea Animal 2",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Sea%20Animal/1.jpeg",
+      "name": "Sea Animal 1",
+      "collections": "Sea Animal"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/4.png",
+      "name": "Butterfly 4",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/3.png",
+      "name": "Butterfly 3",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/2.png",
+      "name": "Butterfly 2",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Butterfly/1.png",
+      "name": "Butterfly 1",
+      "collections": "Butterfly"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/8.jpg",
+      "name": "Animals 8",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/7.jpg",
+      "name": "Animals 7",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/6.png",
+      "name": "Animals 6",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/5.png",
+      "name": "Animals 5",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/4.png",
+      "name": "Animals 4",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/magic.json/main/Animals/03.jpg",
+      "name": "Animals 3",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/2.png",
+      "name": "Animals 2",
+      "collections": "Animals"
+    },
+    {
+      "author": "EagleSpys",
+      "url": "https://raw.githubusercontent.com/DevApps-Studio/wall_magic.json/main/Animals/1.jpg",
+      "name": "Animals 1",
+      "collections": "Animals"
+    }   
+]
